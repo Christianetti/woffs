@@ -13,6 +13,10 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.Toast;
 
+Author: Gabriel Machado Christianetti
+Last Update: 04/04/2015
+
+
 public class MainActivity extends Activity {
 
 	TextToSpeech tts;
